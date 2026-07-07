@@ -40,10 +40,7 @@
       <ul>
         <li><strong>Yapay Zeka Destekli Üniversite Asistanı (Chatbot)</strong>
           <ul>
-            <li><strong>React, TypeScript, Python ve FastAPI</strong> kullanarak full-stack bir chatbot geliştirdik.</li>
-            <li>Farklı kaynaklardan (API, PDF, Web) veri toplama süreçlerini uyguladık.</li>
-            <li>OpenAI ile embedding üretimi sağlayıp vektör tabanlı arama için ChromaDB entegre ettik.</li>
-            <li>Doğru yönlendirme ve içerik eşleştirme için amaç (intent) analizini kullandık.</li>
+            <li>Pamukkale Üniversitesi hakkında bilgi sahibi olmak isteyen kullanıcıların çok daha hızlı ve kolay bir şekilde bilgiye ulaşmasını sağlayan yapay zeka destekli bir chatbot geliştirdik. Sistem duyuru, etkinlik, haber, yönetim kurulu, senato üyeleri, fakülte dekanları, fakültelerin kampüs içi konumları, öğrenci kulüpleri, akademik takvim, fakülte bölüm bilgileri ve rehber gibi verileri kullanıcıya hızlı ve anlaşılır bir şekilde sunuyor. Projeyi ekip arkadaşım Ceren Ece Başaran ile birlikte geliştirdik.</li>
           </ul>
         </li>
       </ul>
@@ -53,10 +50,13 @@
       <ul>
         <li><strong>Pamukkale Üniversitesi Bilgi İşlem Daire Başkanlığı</strong> — Yazılım Stajyeri (07/2025 - 08/2025)
           <ul>
-            <li>Bir SSS (FAQ) sistemi geliştirdim ve QR kod entegrasyonu uyguladım.</li>
+            <li>Staj süresinde okulumuzun web sayfası için kolaylık sağlayacak bir proje geliştirdik. Proje içeriğimiz öğrenci ve personel olmak üzere iki ayrı kullanıcı girişi için girilen sayfaya ait sıkça sorulan soruları gösteren, istediği cevabı bulamaması halinde ona cevap verecek bir chatbot geliştirdik. URL üzerinden hangi sayfada olduğunu anlayan o sayfaya ait sıkça sorulan soruları görüntüleyen bir yapı oluşturduk. Arka planda kullanıcı tipini tutan yapı sayesinde yetkilendirme problemi olmadan sadece o sayfaya ve erişim yetkisine göre cevaplar veren sohbet botunun, yine istenilen cevabı vermemesi halinde onu talep sayfasına yönlendirecek şekilde düzenledik. projemizin github linki: https://github.com/HasCoding/AiChat</li>
           </ul>
         </li>
         <li><strong>Vakıfbank</strong> — Stajyer (08/2024 - 09/2024)</li>
+        <ul>
+          <li> Banka şubesi süreçlerini inceleme şansı buldum.</li>
+        </ul>
       </ul>
     </td>
   </tr>
