@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emine%20Şen&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Management%20Information%20Systems%20Graduate%20%7C%20AI%20%26%20Software%20Enthusiast&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emine%20Şen&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Yönetim%20Bilişim%20Sistemleri%20Mezunu%20%7C%20Yapay%20Zeka%20%26%20Yazılım%20Tutkunu&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8DA9C4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Management+Information+Systems+Graduate;Building+AI-powered+Chatbots+%F0%9F%A4%96;Developing+with+Python,+React+%26+FastAPI" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8DA9C4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Y%C3%B6netim+Bili%C5%9Fim+Sistemleri+Mezunu;Yapay+Zeka+Destekli+Chatbot%27lar+Geli%C5%9Ftiriyorum+%F0%9F%A4%96;Python%2C+React+%26+FastAPI+ile+Geli%C5%9Ftirme" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -10,44 +10,40 @@
   <a href="mailto:07senemine@gmail.com"><img src="https://img.shields.io/badge/Email-E3A9A0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senemine&style=for-the-badge&color=A9C1D9&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
+
+## :woman_technologist: &nbsp;Hakkımda
+
+**Pamukkale Üniversitesi** (2021-2025) **Yönetim Bilişim Sistemleri** bölümü mezunuyum. Antalya/Alanya merkezliyim; yazılım geliştirme, yapay zeka mühendisliği, Büyük Dil Modelleri (LLM) ve RAG mimarileri konularına oldukça istekli ve ilgiliyim. Akıllı çözümler geliştirme, optimizasyon ve full-stack uygulamalara odaklanıyorum.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
 
-## :technologist: &nbsp;About Me
-
-I am a **Management Information Systems (Yönetim Bilişim Sistemleri)** graduate from **Pamukkale University** (2021-2025). Based in Antalya/Alanya, I am highly motivated and deeply interested in software development, AI engineering, Large Language Models (LLMs), and RAG architectures. I focus on developing intelligent solutions, optimization, and full-stack applications.
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
-
-## :rocket: &nbsp;Experience & Projects
+## :rocket: &nbsp;Deneyim & Projeler
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>:bulb: Graduation Project</h4>
+      <h4>:bulb: Bitirme Projesi</h4>
       <ul>
-        <li><strong>AI-Powered University Assistant (Chatbot)</strong>
+        <li><strong>Yapay Zeka Destekli Üniversite Asistanı (Chatbot)</strong>
           <ul>
-            <li>Built a full-stack chatbot utilizing <strong>React, TypeScript, Python, and FastAPI</strong>.</li>
-            <li>Implemented data ingestion pipelines from various sources (APIs, PDFs, Web).</li>
-            <li>Generated embeddings via OpenAI and integrated <strong>ChromaDB</strong> for vector-based search.</li>
-            <li>Optimized intent analysis for accurate routing and content matching.</li>
+            <li><strong>React, TypeScript, Python ve FastAPI</strong> kullanarak full-stack bir chatbot geliştirdim.</li>
+            <li>Farklı kaynaklardan (API, PDF, Web) veri toplama süreçlerini uyguladım.</li>
+            <li>OpenAI ile embedding üretimi sağladım ve vektör tabanlı arama için <strong>ChromaDB</strong> entegre ettim.</li>
+            <li>Doğru yönlendirme ve içerik eşleştirme için amaç (intent) analizini optimize ettim.</li>
           </ul>
         </li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>:briefcase: Experience</h4>
+      <h4>:briefcase: İş Deneyimi</h4>
       <ul>
-        <li><strong>Pamukkale University IT Department</strong> — Software Intern (07/2025 - 08/2025)
+        <li><strong>Pamukkale Üniversitesi Bilgi İşlem Daire Başkanlığı</strong> — Yazılım Stajyeri (07/2025 - 08/2025)
           <ul>
-            <li>Developed an FAQ system and implemented QR code integration.</li>
+            <li>Bir SSS (FAQ) sistemi geliştirdim ve QR kod entegrasyonu uyguladım.</li>
           </ul>
         </li>
-        <li><strong>Vakıfbank</strong> — Intern (08/2024 - 09/2024)</li>
+        <li><strong>Vakıfbank</strong> — Stajyer (08/2024 - 09/2024)</li>
       </ul>
     </td>
   </tr>
@@ -55,36 +51,36 @@ I am a **Management Information Systems (Yönetim Bilişim Sistemleri)** graduat
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
 
-## :mortar_board: &nbsp;Education & Certifications
+## :mortar_board: &nbsp;Eğitim & Sertifikalar
 
 <div align="center">
 
-| &nbsp; | Year | Training / Certification | Institution / Topic |
+| &nbsp; | Yıl | Eğitim / Sertifika | Kurum / Konu |
 |:------:|:----:|--------------------------|---------------------|
-| :mortar_board: | **2021-2025** | **B.Sc. Management Information Systems** | **Pamukkale University** |
-| :snake: | **2025** | **Python 201** | Advanced Python Programming |
-| :snake: | **2024** | **Python 101** | Core Python Programming |
-| :cluttered_code: | **2022** | **Algoritmaya Giriş** | Fundamentals of Algorithms |
-| :shield: | **2022** | **Siber Güvenlik 101** | Cybersecurity Essentials |
-| :purple_heart: | **2022** | **C# ile Algoritma ve Programlama 101 & 201** | C# Development |
-| :globe_with_meridians: | **2022** | **Dijital Okuryazarlık 101** | Digital Literacy |
+| :mortar_board: | **2021-2025** | **Yönetim Bilişim Sistemleri Lisans** | **Pamukkale Üniversitesi** |
+| :snake: | **2025** | **Python 201** | İleri Python Programlama |
+| :snake: | **2024** | **Python 101** | Temel Python Programlama |
+| :gear: | **2022** | **Algoritmaya Giriş** | Algoritma Temelleri |
+| :shield: | **2022** | **Siber Güvenlik 101** | Siber Güvenlik Temelleri |
+| :purple_heart: | **2022** | **C# ile Algoritma ve Programlama 101 & 201** | C# Geliştirme |
+| :globe_with_meridians: | **2022** | **Dijital Okuryazarlık 101** | Dijital Okuryazarlık |
 
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
 
-## :wrench: &nbsp;Core Focus Areas
+## :wrench: &nbsp;Odaklandığım Alanlar
 
 <div align="center">
 
-![GenAI](https://img.shields.io/badge/Generative_AI-A9C1D9?style=for-the-badge&logo=google-gemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_&_Vector_Databases-B7A9D9?style=for-the-badge&logo=openai&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend_Development-A0C4B8?style=for-the-badge&logo=fastapi&logoColor=white)
+![GenAI](https://img.shields.io/badge/Üretken_Yapay_Zeka-A9C1D9?style=for-the-badge&logo=google-gemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_%26_Vekt%C3%B6r_Veritabanlar%C4%B1-B7A9D9?style=for-the-badge&logo=openai&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend_Geli%C5%9Ftirme-A0C4B8?style=for-the-badge&logo=fastapi&logoColor=white)
 ![FullStack](https://img.shields.io/badge/Full_Stack-E3C29E?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
 
-## :desktop_computer: &nbsp;Tech Stack
+## :desktop_computer: &nbsp;Teknoloji Yığını
 
 <div align="center">
 
@@ -96,21 +92,6 @@ I am a **Management Information Systems (Yönetim Bilişim Sistemleri)** graduat
 ![FastAPI](https://img.shields.io/badge/FastAPI-A0C4B8?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-B8B8B8?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
-
-## :bar_chart: &nbsp;GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senemine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=A9C1D9&icon_color=B7A9D9&text_color=c9d1d9" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senemine&theme=tokyonight&hide_border=true&background=0d1117&ring=A9C1D9&fire=E3A9A0&currStreakLabel=A9C1D9" alt="GitHub Streak" height="170" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senemine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&title_color=A9C1D9&text_color=c9d1d9" alt="Top Languages" height="170" />
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
