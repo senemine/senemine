@@ -83,16 +83,6 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
 
-## :wrench: &nbsp;Odaklandığım Alanlar
-
-<div align="center">
-
-![GenAI](https://img.shields.io/badge/Üretken_Yapay_Zeka-A9C1D9?style=for-the-badge&logo=google-gemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_%26_Vekt%C3%B6r_Veritabanlar%C4%B1-B7A9D9?style=for-the-badge&logo=openai&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend_Geli%C5%9Ftirme-A0C4B8?style=for-the-badge&logo=fastapi&logoColor=white)
-![FullStack](https://img.shields.io/badge/Full_Stack-E3C29E?style=for-the-badge&logo=react&logoColor=white)
-
-</div>
 
 ## :desktop_computer: &nbsp;Teknik Becerilerim
 
