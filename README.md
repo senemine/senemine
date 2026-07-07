@@ -1,10 +1,7 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emine%20Şen&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Yönetim%20Bilişim%20Sistemleri%20Mezunu%20%7C%20Yapay%20Zeka%20%26%20Yazılım%20Tutkunu&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" alt="Header">
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emine%20%C5%9Een&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Y%C3%B6netim%20Bili%C5%9Fim%20Sistemleri%20Mezunu%20%7C%20Yapay%20Zeka%20%26%20Yaz%C4%B1l%C4%B1m%20Tutkunu&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8DA9C4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Yönetim+Bilişim+Sistemleri+Mezunu;Yapay+Zeka+Destekli+Chatbot'lar+Geliştiriyorum+🤖;Python%2C+React+%26+FastAPI+ile+Geliştirme" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8DA9C4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Y%C3%B6netim+Bili%C5%9Fim+Sistemleri+Mezunu;Yapay+Zeka+Destekli+Chatbot%27lar+Geli%C5%9Ftiriyorum+%F0%9F%A4%96;Python%2C+React+%26+FastAPI+ile+Geli%C5%9Ftirme" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -14,7 +11,6 @@
 </p>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
-
 ## :woman_technologist: &nbsp;Hakkımda
 
 **Pamukkale Üniversitesi** (2021-2025) **Yönetim Bilişim Sistemleri** bölümü mezunuyum. Antalya/Alanya merkezliyim; yazılım geliştirme, yapay zeka mühendisliği, Büyük Dil Modelleri (LLM) ve RAG mimarileri konularına oldukça istekli ve ilgiliyim. Akıllı çözümler geliştirme, optimizasyon ve full-stack uygulamalara odaklanıyorum.
