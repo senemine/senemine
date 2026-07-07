@@ -1,18 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emine%20%C5%9Een&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Y%C3%B6netim%20Bili%C5%9Fim%20Sistemleri%20Mezunu%20%7C%20Yapay%20Zeka%20%26%20Yaz%C4%B1l%C4%B1m%20Tutkunu&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" alt="Header">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Emine%20Şen&fontSize=45&fontAlignY=38&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8DA9C4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Y%C3%B6netim%20Bili%C5%9Fim%20Sistemleri%20Mezunu;Yapay%20Zeka%20Destekli%20Chatbot%27lar%20Geli%C5%9Ftiriyorum%20%F0%9F%A4%96;Python%2C%20React%20%26%20FastAPI%20ile%20Geli%C5%9Ftirme" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=8DA9C4&center=true&vCenter=true&width=750&height=60&lines=Y%C3%B6netim+Bili%C5%9Fim+Sistemleri+Mezunu;Yapay+Zeka+Destekli+Chatbot+Geli%C5%9Ftiriyorum+🤖;Python+•+React+•+FastAPI"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-A9C1D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/senemine"><img src="https://img.shields.io/badge/GitHub-B8B8B8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:07senemine@gmail.com"><img src="https://img.shields.io/badge/Email-E3A9A0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<a href="https://linkedin.com/in/....">
+<img src="https://img.shields.io/badge/LinkedIn-A9C1D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
+<a href="https://github.com/senemine">
+<img src="https://img.shields.io/badge/GitHub-B8B8B8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:07senemine@gmail.com">
+<img src="https://img.shields.io/badge/Email-E3A9A0?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ## :woman_technologist: &nbsp;Hakkımda
 
