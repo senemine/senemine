@@ -77,6 +77,7 @@
 | :shield: | **2022** | **Siber Güvenlik 101** | Siber Güvenlik Temelleri |
 | :purple_heart: | **2022** | **C# ile Algoritma ve Programlama 101 & 201** | C# Geliştirme |
 | :globe_with_meridians: | **2022** | **Dijital Okuryazarlık 101** | Dijital Okuryazarlık |
+| :robot: | **2026** | **Büyük Dil Modellerine Giriş** | 18.06.2026 • Yapay Zeka / LLM |
 
 </div>
 
@@ -93,7 +94,7 @@
 
 </div>
 
-## :desktop_computer: &nbsp;Teknoloji Yığını
+## :desktop_computer: &nbsp;Teknik Becerilerim
 
 <div align="center">
 
@@ -104,6 +105,7 @@
 ![React](https://img.shields.io/badge/React-B7D4E0?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-A0C4B8?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-B8B8B8?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-B8B8B8?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
