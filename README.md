@@ -1,7 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emine%20Şen&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Yönetim%20Bilişim%20Sistemleri%20Mezunu%20%7C%20Yapay%20Zeka%20%26%20Yazılım%20Tutkunu&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emine%20Şen&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Yönetim%20Bilişim%20Sistemleri%20Mezunu%20%7C%20Yapay%20Zeka%20%26%20Yazılım%20Tutkunu&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" alt="Header">
+</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8DA9C4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Y%C3%B6netim+Bili%C5%9Fim+Sistemleri+Mezunu;Yapay+Zeka+Destekli+Chatbot%27lar+Geli%C5%9Ftiriyorum+%F0%9F%A4%96;Python%2C+React+%26+FastAPI+ile+Geli%C5%9Ftirme" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8DA9C4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Yönetim+Bilişim+Sistemleri+Mezunu;Yapay+Zeka+Destekli+Chatbot'lar+Geliştiriyorum+🤖;Python%2C+React+%26+FastAPI+ile+Geliştirme" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
