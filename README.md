@@ -3,7 +3,12 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=8DA9C4&center=true&vCenter=true&width=750&height=60&lines=Y%C3%B6netim+Bili%C5%9Fim+Sistemleri+Mezunu;Yapay+Zeka+Destekli+Chatbot+Geli%C5%9Ftiriyorum+🤖;Python+•+React+•+FastAPI"/>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=8DA9C4&center=true&vCenter=true&width=750&height=60&lines=Y%C3%B6netim+Bili%C5%9Fim+Sistemleri+Mezunu;Yapay+Zeka+Destekli+Chatbot+Geli%C5%9Ftiriyorum;Python+%7C+React+%7C+FastAPI"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 <p align="center">
