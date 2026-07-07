@@ -77,7 +77,7 @@
 | :shield: | **2022** | **Siber Güvenlik 101** | Siber Güvenlik Temelleri |
 | :purple_heart: | **2022** | **C# ile Algoritma ve Programlama 101 & 201** | C# Geliştirme |
 | :globe_with_meridians: | **2022** | **Dijital Okuryazarlık 101** | Dijital Okuryazarlık |
-| :robot: | **2026** | **Büyük Dil Modellerine Giriş** | 18.06.2026 • Yapay Zeka / LLM |
+| :robot: | **2026** | **Büyük Dil Modellerine Giriş** | Yapay Zeka / LLM |
 
 </div>
 
