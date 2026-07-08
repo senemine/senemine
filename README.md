@@ -71,13 +71,13 @@
 | &nbsp; | Yıl | Eğitim / Sertifika | Kurum / Konu |
 |:------:|:----:|--------------------------|---------------------|
 | :mortar_board: | **2021-2025** | **Yönetim Bilişim Sistemleri Lisans** | **Pamukkale Üniversitesi** |
+| :robot: | **2026** | **Büyük Dil Modellerine Giriş** | Yapay Zeka / LLM |
 | :snake: | **2025** | **Python 201** | İleri Python Programlama |
 | :snake: | **2024** | **Python 101** | Temel Python Programlama |
 | :gear: | **2022** | **Algoritmaya Giriş** | Algoritma Temelleri |
 | :shield: | **2022** | **Siber Güvenlik 101** | Siber Güvenlik Temelleri |
 | :purple_heart: | **2022** | **C# ile Algoritma ve Programlama 101 & 201** | C# Geliştirme |
 | :globe_with_meridians: | **2022** | **Dijital Okuryazarlık 101** | Dijital Okuryazarlık |
-| :robot: | **2026** | **Büyük Dil Modellerine Giriş** | Yapay Zeka / LLM |
 
 </div>
 
